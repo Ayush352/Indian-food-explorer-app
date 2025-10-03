@@ -1,0 +1,31 @@
+.title {
+  font-weight: 700;
+  cursor: pointer;
+}
+.searchBox {
+  width: 350px;
+  background-color: white;
+  flex: 1 1 350px; 
+  max-width: 600px;
+  min-width: 0; 
+  background-color: white;
+  border-radius: 8px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.actions {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-left: 12px;
+}
+.logoutBtn {
+  background: white !important;
+  color: #1976d2 !important;
+  border: none !important;
+  padding: 6px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  text-transform: none;
+  font-weight: 600;
+}

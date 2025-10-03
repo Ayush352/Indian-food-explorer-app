@@ -1,0 +1,9 @@
+.container {
+  padding: 16px;
+}
+.resultsGrid {
+  margin-top: 12px;
+}
+.cardClickable {
+  cursor: pointer;
+}

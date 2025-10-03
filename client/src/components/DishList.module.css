@@ -1,0 +1,12 @@
+.link {
+  color: #1976d2;
+  text-decoration: none;
+}
+.empty {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  font-size: 20px;
+  color: #888;
+}
